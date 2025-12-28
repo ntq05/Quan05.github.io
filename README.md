@@ -1,4 +1,3 @@
-# NGUYEN THIEN QUAN
 **Data Science & Applied AI enthusiast exploring practical ML systems, NLP, and decision-making models.**
 
 📱 Mobile: 0944095105  
