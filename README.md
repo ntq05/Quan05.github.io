@@ -56,7 +56,7 @@ I am a Data Science undergraduate at Ho Chi Minh City International University w
 - Handled missing data using indicators and iterative imputation with tree-based regressors
 - Trained an ensemble of LightGBM, XGBoost, and CatBoost with stratified K-Fold cross-validation and stacking
 - **Optimized decision thresholds to minimize operational cost across auto-pass, manual review, and auto-block decisions**
-[🌐 View Project Website](https://ntq05.github.io/kaggle-mercor-cheating-detection/)
+- [🌐 View Project Website](https://ntq05.github.io/kaggle-mercor-cheating-detection/)
 
 ### Brain Tumor Classification & Segmentation (Finalist – AI Hackathon)
 *09/2025-10/2025*
