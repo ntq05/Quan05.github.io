@@ -1,4 +1,3 @@
-📱 Mobile: 0944095105  
 ✉ Email: [ntq2005nu@gmail.com](mailto:ntq2005nu@gmail.com)  
 🌐 GitHub: [ntq05](https://github.com/ntq05)  
 🔗 LinkedIn: [Nguyen Thien Quan](https://linkedin.com/in/ntq05)
