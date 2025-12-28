@@ -60,7 +60,7 @@ I am a Data Science undergraduate at Ho Chi Minh City International University w
 ### Brain Tumor Classification & Segmentation (Finalist – AI Hackathon)
 *09/2025-10/2025*
 
-[🌐 View Project Website](https://github.com/ntq05/BrainTumorAI_Demo)
+[🌐 View Project Website](https://ntq05.github.io/BrainTumorAI_Demo/)
 
 - Developed an end-to-end CV pipeline for brain tumor detection and segmentation
 - Trained ResNet18 classifier and ResUNet segmentation model
