@@ -48,12 +48,13 @@ I am a Data Science undergraduate at Ho Chi Minh City International University w
 
 ### Cheating Detection with Cost-Sensitive ML (Kaggle Competition)
 *07/12/2025 – 25/12/2025*
+[🌐 View Project Website](https://ntq05.github.io/kaggle-mercor-cheating-detection/)
 - Built predictive models to detect cheating in online interviews using anonymized behavioral and network features
 - Engineered graph-based relational features and derived ratios/differences to capture network effects
 - Handled missing data using indicators and iterative imputation with tree-based regressors
 - Trained an ensemble of LightGBM, XGBoost, and CatBoost with stratified K-Fold cross-validation and stacking
 - **Optimized decision thresholds to minimize operational cost across auto-pass, manual review, and auto-block decisions**
-- [🌐 View Project Website](https://ntq05.github.io/kaggle-mercor-cheating-detection/)
+
 
 ### Brain Tumor Classification & Segmentation (Finalist – AI Hackathon)
 *09/2025-10/2025*
