@@ -12,12 +12,13 @@ I am a Data Science undergraduate at Ho Chi Minh City International University w
 ## Core Skills
 
 **Technical Skills:**
+
 - Programming: Python (pandas, NumPy), SQL
-- ML & DL: scikit-learn, PyTorch, LightGBM, XGBoost, CatBoost
-- CV & NLP: Image classification, segmentation, RAG/embeddings, text processing
-- Data: Preprocessing, feature engineering, exploratory analysis, visualization (Matplotlib, Seaborn)
-- Deployment & Tools: Streamlit, Git/GitHub, Joblib, Spark
-- Methodology: Model evaluation, cross-validation, threshold optimization, cost-sensitive ML
+- ML & DL: scikit-learn, PyTorch; classical ML (Logistic Regression, LightGBM, XGBoost, CatBoost); model training and evaluation on imbalanced data
+- CV & NLP: image classification and basic segmentation; CNNs (MobileNetV3), Vision Transformers (DINOv2); text processing; embeddings and RAG (Sentence Transformers, FAISS)
+- Data: data preprocessing, feature engineering, exploratory data analysis, data visualization (Matplotlib, Seaborn)
+- Deployment & Tools: FastAPI (REST APIs, asynchronous inference), Streamlit (rapid prototyping), Git/GitHub, Joblib, basic Spark
+- Methodology: time-aware validation, cross-validation, threshold optimization, cost-sensitive and risk-aware ML, experiment tracking under data and compute constraints
 
 **Additional Skills:**
 - Problem solving, analytical and critical thinking
