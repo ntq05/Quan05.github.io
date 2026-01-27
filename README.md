@@ -57,14 +57,42 @@ I am a Data Science undergraduate at Ho Chi Minh City International University w
 - **Optimized decision thresholds to minimize operational cost across auto-pass, manual review, and auto-block decisions**
 
 
-### Brain Tumor Classification & Segmentation (Finalist – AI Hackathon)
-*09/2025-10/2025*
+### Rice Disease AI System
 
-[🌐 View Project Website](https://ntq05.github.io/BrainTumorAI_Demo/)
+#### Youth Digital Citizen Challenge 2025 – AI for Climate (Twin Transition)
+*11/2025-01/2026*
 
-- Developed an end-to-end CV pipeline for brain tumor detection and segmentation
-- Trained ResNet18 classifier and ResUNet segmentation model
-- Delivered a workflow enabling rapid experimentation, testing, and live demo
+[🌐 AI Training Repository](https://ntq05.github.io/rice-AI-models-training-demo/)
+
+[🌐 AI API Services](https://ntq05.github.io/rice-ai-service-demo/)
+
+Role: AI Engineer – Model Development & Backend API
+
+Description: Designed and deployed an AI-powered backend system for rice disease detection and outbreak forecasting, supporting early warning and decision-making for climate-resilient agriculture.
+
+Key Contributions:
+
+- Built a multi-stage AI pipeline:
+
+  - Rice / non-rice image filtering (MobileNetV3)
+
+  - Rice disease classification using DINOv2 (ViT) as a frozen feature extractor
+
+  - 7-day outbreak risk forecasting using XGBoost on temporal & climate signals
+
+- Developed a FastAPI-based ML service with:
+
+  - Asynchronous inference using background tasks
+
+  - REST APIs for image-based diagnosis and outbreak prediction
+
+  - RAG-based disease knowledge retrieval (FAISS + Sentence Transformers)
+
+- Designed time-aware data splitting and threshold tuning to handle highly imbalanced outbreak data (~9%)
+
+- Packaged trained models as reusable artifacts for rapid deployment and demo
+
+Tech Stack: PyTorch, DINOv2, XGBoost, FastAPI, FAISS, Sentence Transformers, scikit-learn
 
 ---
 
