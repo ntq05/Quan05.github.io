@@ -46,6 +46,20 @@ I am a Data Science undergraduate at Ho Chi Minh City International University w
 
 ## Selected Projects
 
+### Agentic Corporate Simulation: Multi-Agent Cognitive System
+*03/2026 – Present*
+
+[🌐 View Project Repository](https://ntq05.github.io/AI-Co-worker-Multi-Agent-System/)
+
+- Designed and implemented a **multi-agent corporate simulation system** using a Supervisor–Worker architecture (CEO, CHRO, Manager), enabling structured and role-based decision-making workflows
+- Built a **LangGraph-based state machine** with summarization, routing, and execution nodes, ensuring consistent reasoning flow and reducing context fragmentation across multi-turn interactions
+- Developed an **intelligent memory mechanism** combining short-term state tracking and progressive summarization, reducing token usage while preserving long-term conversational context
+- Implemented **stateful persistence with PostgreSQL (AsyncPostgresSaver)**, enabling seamless conversation recovery across sessions
+- Integrated **LangChain Tool Calling for dynamic agent routing**, improving response relevance via intent-aware agent selection
+- Containerized the entire system using **Docker & Docker Compose**, orchestrating FastAPI, PostgreSQL, and vector storage services, enabling reproducible deployment and simplified environment setup
+- Deployed a **production-ready FastAPI backend**, supporting asynchronous request handling and scalable API integration
+- Designed an extensible **cognitive architecture roadmap** (semantic, episodic, procedural memory), laying the foundation for advanced reasoning and knowledge systems
+
 ### Cheating Detection with Cost-Sensitive ML (Kaggle Competition)
 *07/12/2025 – 25/12/2025*
 
