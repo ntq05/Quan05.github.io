@@ -47,7 +47,7 @@ I am a Data Science undergraduate at Ho Chi Minh City International University w
 ## Selected Projects
 
 ### Agentic Corporate Simulation: Multi-Agent Cognitive System
-*03/2026 – Present*
+*04/2026 – Present*
 
 [🌐 View Project Repository](https://ntq05.github.io/AI-Co-worker-Multi-Agent-System/)
 
