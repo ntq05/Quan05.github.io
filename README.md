@@ -109,6 +109,26 @@ Key Contributions:
 
 Tech Stack: PyTorch, DINOv2, XGBoost, FastAPI, FAISS, Sentence Transformers, scikit-learn
 
+### Brain Tumor Classification & Segmentation
+
+#### AI Hackathon Finalist
+
+*09/2025 - 12/2025*
+
+[🌐 View Project Repository](https://github.com/ntq05/BrainTumorAI_Demo)
+
+- Developed an end-to-end computer vision pipeline for brain tumor classification and segmentation from MRI images using ResNet18 and ResUNet, enabling automated tumor detection and region extraction
+
+- Built preprocessing and augmentation workflows for medical imaging datasets, including resizing, rotations, flips, and mask normalization, improving robustness across varying image conditions
+
+- Implemented classification and segmentation training pipelines with validation-based checkpointing, early stopping, and learning rate scheduling to improve training stability and model reliability
+
+- Applied MC Dropout for uncertainty estimation during inference, improving prediction confidence assessment for medical imaging outputs
+
+- Deployed an interactive Streamlit application for real-time tumor classification and segmentation visualization, supporting end-to-end inference and demo workflows
+
+Tech Stack: PyTorch, torchvision, segmentation_models_pytorch, scikit-learn, Streamlit, NumPy, Pandas, Git/GitHub
+
 ---
 
 ## Awards & Achievements
