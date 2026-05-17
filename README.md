@@ -29,7 +29,7 @@ I am a Data Science undergraduate at Ho Chi Minh City International University w
 ## Education
 
 **Ho Chi Minh City International University (HCMIU)**  
-*Bachelor of Science in Data Science* | GPA: 3.38/4.0  
+*Bachelor of Science in Data Science* | GPA: 3.45/4.0  
 *Expected Graduation:* 09/2027 | Ho Chi Minh, Vietnam
 
 ---
