@@ -12,25 +12,25 @@ Data Science undergraduate at Ho Chi Minh City International University with han
 
 ## Core Skills
 
-#### Technical Skills
+### Technical Skills
 
-**Languages:** Python, SQL
+- **Languages:** Python, SQL
 
-**Machine Learning:** scikit-learn, XGBoost, LightGBM, CatBoost, Ensemble Learning, Imbalanced Learning
+- **Machine Learning:** scikit-learn, XGBoost, LightGBM, CatBoost, Ensemble Learning, Imbalanced Learning
 
-**Deep Learning:** PyTorch, CNNs, Vision Transformers (DINOv2), Transfer Learning, PEFT/LoRA
+- **Deep Learning:** PyTorch, CNNs, Vision Transformers (DINOv2), Transfer Learning, PEFT/LoRA
 
-**Generative AI & LLMs:** LangChain, LangGraph, RAG, Multi-Agent Systems, Hugging Face Transformers, Sentence Transformers, FAISS, Prompt Engineering, Tool Calling
+- **Generative AI & LLMs:** LangChain, LangGraph, RAG, Multi-Agent Systems, Hugging Face Transformers, Sentence Transformers, FAISS, Prompt Engineering, Tool Calling
 
-**Computer Vision:** Image Classification, Semantic Segmentation, Medical Imaging, Feature Extraction
+- **Computer Vision:** Image Classification, Semantic Segmentation, Medical Imaging, Feature Extraction
 
-**Deployment & Infrastructure:** FastAPI, Docker, Docker Compose, PostgreSQL, Streamlit, Git/GitHub
+- **Deployment & Infrastructure:** FastAPI, Docker, Docker Compose, PostgreSQL, Streamlit, Git/GitHub
 
-**Data Science:** EDA, Feature Engineering, Statistical Modeling, Model Evaluation
+- **Data Science:** EDA, Feature Engineering, Statistical Modeling, Model Evaluation
 
-**Research Interests:** Multimodal Retrieval, Video Understanding, Vision-Language Models, Agentic AI Systems
+- **Research Interests:** Multimodal Retrieval, Video Understanding, Vision-Language Models, Agentic AI Systems
 
-#### Additional Skills:
+### Additional Skills:
 - Problem solving, analytical and critical thinking
 - Teamwork, presentation, communication
 
