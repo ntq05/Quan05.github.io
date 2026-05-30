@@ -37,10 +37,11 @@ I am a Data Science undergraduate at Ho Chi Minh City International University w
 Experience
 
 **AI Engineer intern	23/02/2026 – 22/05/2026 | Hiptech Solution**
-•	Designed and improved an LLM pipeline with modules for routing, retrieval, validation, and summarization, improving reliability and reducing hallucinations.
-•	Developed an LLM-based intent routing system, improving classification accuracy and pipeline stability.
-•	Built and optimized RAG-based retrieval modules with semantic search fallback, improving document matching and response relevance.
-•	Improved multi-turn interactions and multi-agent chatbot performance by handling edge cases, implementing validation logic, and refining retrieval workflows, reducing errors and improving response consistency.
+
+- Designed and improved an LLM pipeline with modules for routing, retrieval, validation, and summarization, improving reliability and reducing hallucinations.
+- Developed an LLM-based intent routing system, improving classification accuracy and pipeline stability.
+- Built and optimized RAG-based retrieval modules with semantic search fallback, improving document matching and response relevance.
+- Improved multi-turn interactions and multi-agent chatbot performance by handling edge cases, implementing validation logic, and refining retrieval workflows, reducing errors and improving response consistency.
 ---
 
 ## Selected Projects
