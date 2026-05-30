@@ -34,14 +34,13 @@ I am a Data Science undergraduate at Ho Chi Minh City International University w
 
 ---
 
-## Research & Experience
+Experience
 
-**Undergraduate Research Member – IT Lab**  
-05/2025 - Present | HCMIU
-- Participated in research discussions and paper analysis on deep learning and generative models (ResNet, U-Net, DDPM, Improved DDPM)
-- Summarized and presented key ideas from research papers to guide lab experiments
-- Contributed to brainstorming model ideas and experimental directions for lab projects
-
+**AI Engineer intern	23/02/2026 – 22/05/2026 | Hiptech Solution**
+•	Designed and improved an LLM pipeline with modules for routing, retrieval, validation, and summarization, improving reliability and reducing hallucinations.
+•	Developed an LLM-based intent routing system, improving classification accuracy and pipeline stability.
+•	Built and optimized RAG-based retrieval modules with semantic search fallback, improving document matching and response relevance.
+•	Improved multi-turn interactions and multi-agent chatbot performance by handling edge cases, implementing validation logic, and refining retrieval workflows, reducing errors and improving response consistency.
 ---
 
 ## Selected Projects
@@ -71,6 +70,15 @@ I am a Data Science undergraduate at Ho Chi Minh City International University w
 - Trained an ensemble of LightGBM, XGBoost, and CatBoost with stratified K-Fold cross-validation and stacking
 - **Optimized decision thresholds to minimize operational cost across auto-pass, manual review, and auto-block decisions**
 
+### Fine-Tuned Medical AI Assistant (Llama-3.1-8B)
+*24/05/2026-30/05/2026*
+
+[🌐 View Project Website](https://ntq05.github.io/Llama-3.1-Medical-Consultant/)
+
+- Developed an end-to-end domain-adaptation pipeline to fine-tune Llama-3.1-8B-Instruct into a specialized, empathetic AI Medical Assistant using patient-doctor dialogues, ensuring strict adherence to clinical safety disclaimers.
+- Implemented low-resource parameter-efficient fine-tuning (PEFT/LoRA) integrated with BitsAndBytes 4-bit (NF4) quantization via Unsloth, drastically reducing the VRAM footprint and enabling rapid convergence within 1 epoch on a single T4 GPU.
+- Designed a structured, production-grade data preprocessing workflow that globally injected custom system personas and multi-turn clinical chat templates while eliminating token anomalies and text noise
+- Built a rigorous dual-layered automated benchmarking suite to evaluate text generation quality against the base model, measuring both lexical alignment (achieving +618% BLEU and +210% ROUGE-2 improvements) and semantic accuracy (+3.0% BERTScore F1).
 
 ### Rice Disease AI System
 
