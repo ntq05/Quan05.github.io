@@ -46,7 +46,7 @@ Data Science undergraduate at Ho Chi Minh City International University with han
 
 ## Experience
 
-**AI Engineer Intern | Hiptech Solution**
+**AI Engineer Intern - Hiptech Solution**
 
 *02/2026 – 05/2026*
 
