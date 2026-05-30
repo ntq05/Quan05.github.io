@@ -5,22 +5,32 @@
 ---
 
 ## About Me
-I am a Data Science undergraduate at Ho Chi Minh City International University with practical experience in machine learning, computer vision, NLP, and AI pipelines. I enjoy building end-to-end solutions, optimizing operational outcomes, and exploring applied AI projects that create measurable impact.
+
+Data Science undergraduate at Ho Chi Minh City International University with hands-on experience in machine learning, computer vision, NLP, retrieval systems, and LLM applications. I have built end-to-end AI solutions spanning multimodal AI, RAG pipelines, agentic workflows, and model deployment. My interests lie in developing production-ready AI systems and conducting applied research in multimodal understanding, retrieval, and generative AI.
 
 ---
 
 ## Core Skills
 
-**Technical Skills:**
+#### Technical Skills
 
-- Programming: Python (pandas, NumPy), SQL
-- ML & DL: scikit-learn, PyTorch; classical ML (Logistic Regression, LightGBM, XGBoost, CatBoost); model training and evaluation on imbalanced data
-- CV & NLP: image classification and basic segmentation; CNNs (MobileNetV3), Vision Transformers (DINOv2); text processing; embeddings and RAG (Sentence Transformers, FAISS)
-- Data: data preprocessing, feature engineering, exploratory data analysis, data visualization (Matplotlib, Seaborn)
-- Deployment & Tools: FastAPI (REST APIs, asynchronous inference), Streamlit (rapid prototyping), Git/GitHub, Joblib, basic Spark
-- Methodology: time-aware validation, cross-validation, threshold optimization, cost-sensitive and risk-aware ML, experiment tracking under data and compute constraints
+**Languages:** Python, SQL
 
-**Additional Skills:**
+**Machine Learning:** scikit-learn, XGBoost, LightGBM, CatBoost, Ensemble Learning, Imbalanced Learning
+
+**Deep Learning:** PyTorch, CNNs, Vision Transformers (DINOv2), Transfer Learning, PEFT/LoRA
+
+**Generative AI & LLMs:** LangChain, LangGraph, RAG, Multi-Agent Systems, Hugging Face Transformers, Sentence Transformers, FAISS, Prompt Engineering, Tool Calling
+
+**Computer Vision:** Image Classification, Semantic Segmentation, Medical Imaging, Feature Extraction
+
+**Deployment & Infrastructure:** FastAPI, Docker, Docker Compose, PostgreSQL, Streamlit, Git/GitHub
+
+**Data Science:** EDA, Feature Engineering, Statistical Modeling, Model Evaluation
+
+**Research Interests:** Multimodal Retrieval, Video Understanding, Vision-Language Models, Agentic AI Systems
+
+#### Additional Skills:
 - Problem solving, analytical and critical thinking
 - Teamwork, presentation, communication
 
@@ -36,7 +46,9 @@ I am a Data Science undergraduate at Ho Chi Minh City International University w
 
 ## Experience
 
-**AI Engineer intern	23/02/2026 – 22/05/2026 - Hiptech Solution**
+**AI Engineer Intern | Hiptech Solution**
+
+*02/2026 – 05/2026*
 
 - Designed and improved an LLM pipeline with modules for routing, retrieval, validation, and summarization, improving reliability and reducing hallucinations.
 - Developed an LLM-based intent routing system, improving classification accuracy and pipeline stability.
