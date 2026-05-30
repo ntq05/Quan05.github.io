@@ -34,7 +34,7 @@ I am a Data Science undergraduate at Ho Chi Minh City International University w
 
 ---
 
-Experience
+## Experience
 
 **AI Engineer intern	23/02/2026 – 22/05/2026 | Hiptech Solution**
 
