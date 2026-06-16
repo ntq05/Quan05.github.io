@@ -76,7 +76,7 @@ Data Science undergraduate at Ho Chi Minh City International University with han
 ### Light Control Using Hand Gestures: Real-Time Computer Vision System
 *10/06/2026 – 16/06/2026*
 
-[🌐 View Project Repository](https://github.com/ntq05/light-controlling-using-hand-gestures)
+[🌐 View Project Repository](https://ntq05.github.io/light-controlling-using-hand-gestures/)
 
 - Designed and implemented a real-time hand gesture recognition system for simulated smart light control using MediaPipe and PyTorch, enabling low-latency gesture-based interaction through webcam input
 
