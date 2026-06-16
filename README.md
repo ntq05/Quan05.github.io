@@ -73,6 +73,36 @@ Data Science undergraduate at Ho Chi Minh City International University with han
 - Deployed a **production-ready FastAPI backend**, supporting asynchronous request handling and scalable API integration
 - Designed an extensible **cognitive architecture roadmap** (semantic, episodic, procedural memory), laying the foundation for advanced reasoning and knowledge systems
 
+### Light Control Using Hand Gestures: Real-Time Computer Vision System
+*10/06/2026 – 16/06/2026*
+
+[🌐 View Project Repository](https://github.com/ntq05/light-controlling-using-hand-gestures)
+
+- Designed and implemented a real-time hand gesture recognition system for simulated smart light control using MediaPipe and PyTorch, enabling low-latency gesture-based interaction through webcam input
+
+- Built a complete end-to-end machine learning pipeline including custom dataset collection, landmark preprocessing, model training, evaluation, and real-time deployment
+
+- Developed a custom dataset generation system using OpenCV and MediaPipe Hands, enabling manual collection of gesture landmarks for train, validation, and test datasets through keyboard-controlled recording sessions
+
+- Implemented landmark normalization using wrist-relative coordinate transformation and scale normalization, improving translation and scale invariance across varying hand positions and camera distances
+
+- Applied Gaussian noise augmentation during training to improve robustness against small hand variations and reduce overfitting in real-time inference scenarios
+
+- Designed and trained a lightweight MLP-based gesture classifier with Batch Normalization, Dropout, Weight Decay, and Adam optimization, achieving efficient CPU-based inference suitable for edge-AI environments
+
+- Integrated CosineAnnealingLR scheduling and Early Stopping strategies, improving convergence stability and generalization performance during training
+
+- Built a real-time inference pipeline combining webcam capture, landmark extraction, preprocessing, confidence-based classification, and interactive light simulation control
+
+- Implemented confidence-threshold prediction logic to handle uncertain gestures and reduce false-positive activations during live interaction
+
+- Evaluated model performance using Accuracy, Macro F1-Score, and Confusion Matrix analysis, achieving:
+
+  * Test Accuracy: 95.37%
+  * Macro F1-Score: 95.21%
+
+- Performed error analysis on misclassified gesture pairs (`light2` ↔ `light3`) and proposed future improvements using temporal sequence modeling approaches such as LSTM and Transformer architectures
+
 ### Cheating Detection with Cost-Sensitive ML (Kaggle Competition)
 *07/12/2025 – 25/12/2025*
 
